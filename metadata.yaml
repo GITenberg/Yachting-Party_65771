@@ -1,5 +1,8 @@
 _repo: Yachting-Party_65771
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65771-h/images/cover.jpg
 creator:
   author:
     agent_name: Holden, Fox B.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '35294'
     url: http://www.gutenberg.org/2009/agents/35294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65771#Yachting-Party
 gutenberg_issued: '2021-07-05'
 gutenberg_type: Text
 identifiers:
